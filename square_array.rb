@@ -4,9 +4,9 @@ def square_array(array)
   new_array
 end
 
-def square_array(array)
-  array.map{|e| e ** 2}
-end 
-square_array(array)
-square_array(new_numbers)
+# def square_array(array)
+#   array.map{|e| e ** 2}
+# end 
+# square_array(array)
+# square_array(new_numbers)
 
