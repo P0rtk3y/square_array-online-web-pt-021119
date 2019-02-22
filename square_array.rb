@@ -6,3 +6,8 @@ def square_array(array)
   new_array
 end
 
+def square_array(array)
+  array.map do |element|
+    element ** 2 
+  end 
+end 
