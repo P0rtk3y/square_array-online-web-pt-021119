@@ -6,7 +6,7 @@ def square_array(array)
   new_array
 end
 
-def square_array(array)
+def square_array(numbers)
   array.map{|e| e ** 2}
 end 
 
