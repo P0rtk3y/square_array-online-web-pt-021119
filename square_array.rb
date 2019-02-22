@@ -7,8 +7,6 @@ def square_array(array)
 end
 
 def square_array(array)
-  array.map do |element|
-    element ** 2 
-  end 
+  array.map{|e| e ** 2}
 end 
 
