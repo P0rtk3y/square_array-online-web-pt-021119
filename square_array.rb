@@ -5,6 +5,6 @@ def square_array(numbers)
 end
 
 def square_array(numbers)
-  array.map{|e| e ** 2}
+  numbers.map{|e| e ** 2}
 end 
 
